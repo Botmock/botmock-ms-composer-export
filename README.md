@@ -27,10 +27,6 @@ Running the following commands should allow you to generate restorable content f
 
 The export is going to create an output folder.
 
-> Note: This exporter is in BETA Release.
-
-> Note: This exporter does not support conditions in Botmock. (Comming soon)
-
 
 ### Botmock Project Structure
 
